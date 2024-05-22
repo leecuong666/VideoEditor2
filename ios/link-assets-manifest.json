@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/BricolageGrotesque-Bold.ttf",
+      "sha1": "d7d39ce51c7937df08d326b213825380ad476cf0"
+    },
+    {
+      "path": "src/assets/fonts/BricolageGrotesque-Light.ttf",
+      "sha1": "70640a8f30c9b5cc334ac1aef54b768c72ee3029"
+    },
+    {
+      "path": "src/assets/fonts/BricolageGrotesque-Medium.ttf",
+      "sha1": "f9c71d054a69b0638f8f30cb12f7e33a6f408941"
+    },
+    {
+      "path": "src/assets/fonts/BricolageGrotesque-Regular.ttf",
+      "sha1": "ab56700f939ca752111fdff2195f24290621afae"
+    },
+    {
+      "path": "src/assets/fonts/Comfortaa.ttf",
+      "sha1": "89d13684a897ae7ca4dae157eb05000db6b3e6c8"
+    },
+    {
+      "path": "src/assets/fonts/Corinthia.ttf",
+      "sha1": "2b1a0548b95027f1285d1ef85fabad4be2beb6f3"
+    },
+    {
+      "path": "src/assets/fonts/Eater.ttf",
+      "sha1": "9e2cc6bbcd178e3654a248ee6926362616d3b272"
+    },
+    {
+      "path": "src/assets/fonts/Exo.ttf",
+      "sha1": "16d8df97be29a70f007e7a70c3337bd02d938e06"
+    },
+    {
+      "path": "src/assets/fonts/Miniver.ttf",
+      "sha1": "ccd361e8db46303e9f2d4760ef119bc3e93d215d"
+    },
+    {
+      "path": "src/assets/fonts/Stick.ttf",
+      "sha1": "0923ff394892d8fa9be3f42b1cfd9d0b1085ef4d"
+    },
+    {
+      "path": "src/assets/fonts/WindSong.ttf",
+      "sha1": "a7d54fdbf72c7ca2d7f738cd31350c083b6015f0"
+    },
+    {
+      "path": "src/assets/fonts/Zeyada.ttf",
+      "sha1": "af01e6fc3e0b4ccdd86d03509add7b89a0da7f57"
+    }
+  ]
+}
