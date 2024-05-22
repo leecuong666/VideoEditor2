@@ -1,5 +1,5 @@
 import {FlatList, StyleSheet} from 'react-native';
-import React, {useCallback} from 'react';
+import React from 'react';
 import {StickerProps, TextProps} from '../../../type';
 import RenderOverideItem from './RenderOverideItem';
 import {stickerSize} from '../../../constants/other';
@@ -23,8 +23,8 @@ const ListItemOveride = ({
   onStartDrag,
   onPickItem,
 }: ListItemOverideProps) => {
-  const renderItem = useCallback(
-    ({item, index}: any) => (
+  const renderItem = ({item, index}: any) => {
+    return (
       <RenderOverideItem
         item={item}
         index={index}
@@ -34,9 +34,8 @@ const ListItemOveride = ({
         onStartDrag={onStartDrag}
         onPickItem={onPickItem}
       />
-    ),
-    [itemPicker, currTime],
-  );
+    );
+  };
 
   return (
     <FlatList
