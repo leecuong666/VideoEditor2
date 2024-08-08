@@ -6,7 +6,9 @@ VideoEditor 02 is a video editing tool that allows users to add multiple text se
 2. Drag and drop both customizable text and pre-designed icons onto any location or segment within the video timeline.
 3. Exporting edited videos with custom filenames and previewing the fully edited videos.
 
-## Demo:
+## Video Demo: https://drive.google.com/file/d/119CNE-YmgSmyQoBudBQsc2mxMQKsBFDK/view?usp=drive_link
+
+## Screenshots Demo:
 <p align="center">
   <img src=https://github.com/santaclose666/VideoEditor2/assets/90021195/9e711798-ac56-4cf2-8e5a-57ecc76cfe44 alt="Ảnh 1" style="display:inline-block; margin-right:10px;" width="200">
   <img src=https://github.com/santaclose666/VideoEditor2/assets/90021195/18127ea9-d387-48dd-b96d-42d4b5ec7b25 alt="Ảnh 2" style="display:inline-block; margin-right:10px;" width="200">
